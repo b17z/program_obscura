@@ -1,8 +1,4 @@
-mage: monachus/hugo
-
-before_script:
-  - git submodule init
-  - git submodule update --force
+image: monachus/hugo
 
 pages:
   script:
