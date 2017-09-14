@@ -1,7 +1,11 @@
 ---
 title: "Welcome to the Benevolence Blog!"
+description: "Because why not?"
 date: 2017-09-13T19:45:04-04:00
+tags: ["hello world"]
 draft: false
+categories: 
+    - "introduction"
 ---
 Hello All!
 
