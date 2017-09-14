@@ -1,4 +1,4 @@
-image: monachus/hugo
+mage: monachus/hugo
 
 pages:
   script:
