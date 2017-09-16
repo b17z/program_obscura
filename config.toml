@@ -1,4 +1,18 @@
 baseURL = "http://benevolence.io/"
 languageCode = "en-us"
 title = "Trust me; I Have No Idea What I'm Doing"
+toc = true
 theme = "after-dark"
+
+
+[[menu.main]]
+  name = "Home"
+  weight = 1
+  identifier = "home"
+  url = "/"
+
+[[menu.main]]
+  name = "Posts"
+  weight = 2
+  identifier = "post"
+  url = "/post/"
