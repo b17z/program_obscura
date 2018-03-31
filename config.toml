@@ -1,18 +1,96 @@
-baseURL = "http://benevolence.io/"
-languageCode = "en-us"
-title = "Trust me; I Have No Idea What I'm Doing"
-toc = true
-theme = "after-dark"
+baseurl = "/"
+title = "Program Obscura"
+#copyright = "Copyright (c) 2008 - 2014, all rights reserved."
+#languageCode = "en-US"
+#canonifyurls = true
+#paginate = 3
+theme = "coder"
 
+[params] # theme parameters
+ author = "Bienvenido (Ben) Rodriguez"
+ info = "Program Obscura: Misadventures in a Digital World"
+ description = "The Journey Through Life That is Increasingly Digital"
+ keywords = "blog,developer,personal"
+
+[[params.social]] # social links
+ name = "Github"
+ weight = 1
+ url = "https://github.com/b17z"
+
+[[params.social]]
+ name = "Twitter"
+ weight = 2
+ url = "https://twitter.com/b17z_"
+
+[[params.social]]
+ name = "LinkedIn"
+ weight = 3
+ url = "https://www.linkedin.com/in/bienvenidorodriguez/"
+
+#[[menu.main]] # menu links
+# name = "About"
+# weight = 1
+# url = "/about/"
 
 [[menu.main]]
-  name = "Home"
-  weight = 1
-  identifier = "home"
-  url = "/"
+ name = "Musings"
+ weight = 2
+ url = "/musings/"
 
 [[menu.main]]
-  name = "Posts"
-  weight = 2
-  identifier = "post"
-  url = "/post/"
+ name = "Essays"
+ weight = 3
+ url = "/essays/"
+
+[[menu.main]]
+ name = "Bookshelf"
+ weight = 4
+ url = "/books/"
+ 
+
+
+############### For Previous Theme ###################
+#googleAnalytics = ""
+#disqusShortname = ""
+
+#SectionPagesMenu = "main"
+
+# use Chroma for syntax highlight
+#pygmentsStyle = "vim" # other dark style options: vim, fruity, monokai
+# enable syntax highlight for code blocks
+#pygmentsCodeFences = true
+
+#[[menu.main]]
+#  name = "Posts"
+#  weight = -120
+#  identifier = "post"
+#  url = "/post/"
+
+#[[menu.main]]
+#  name = "Tags"
+#  weight = -110
+#  identifier = "tag"
+#  url = "/tags/"
+
+#[author]
+#  name = "Bienvenido (Ben) Rodriguez"
+
+#[params.meta]
+#  keywords = ""
+#  description = "My misadventures through computer science"
+
+#[params]
+#  email = "ben@parea.io"
+#  github = "Ben-Evolently"
+  #gitlab = "gitlab id"
+#  twitter = "b17z_"
+  #linkedin = "linkedin id"
+
+
+#[params.colors]
+ 	# hugo-dusk colors
+# background = "#211E2A" # background color for the site
+# main = "#FF9BA3"
+# text = "#C1EDCC"
+# code-quote-bg = "#1D1F21" # background color for quotes and code blocks
+# copyright = "#404040" # copyright text color
