@@ -5,18 +5,18 @@ menu: "main"
 weight: 100
 ---
 
-### Just... Why?
+## Just... Why?
 
-Hi, I'm Ben; a technologist who is skeptical of technology. Now, don't get it confused with "I hate technology." I am just not a technovangelist like some people are. Don't get my wrong, I love technology; there just seems to be almost unlimited possibilities for it. But unlimited possibilites could also come with unlimited fuck ups. I like to think about the human aspect behind technology. There is no shortage of opinion on technology vs. humanity. How about a balance of both? So, there, another opinion out there and a bit of why I was driven to start this static site because I've no web developer skills. I also just wanted a place to note things down.
+Hi, I'm Ben; a technologist who is skeptical of technology. Now, don't get it confused with "I hate technology." I am just not a technovangelist like some people are. Don't get my wrong, I love technology; there just seems to be almost unlimited possibilities for it. But unlimited possibilites could also come with unlimited fuck ups. I like to think about the human aspect behind technology. There is no shortage of opinion on technology vs. humanity. 
 
-### Why Didn't You Just Use a Blogging Platform like Medium?
+Technology also affects almost everything we do in life so I wanted a spot to reflect on technology and how it affects my life and my perspective. 
 
-I'm on Medium actually. I just decided for a tech blog, I should use a static site and see if I muster up the energy to go into the bowels known as web development if I want to build upon this later. 
+An ancedote: I love to read. The act of reading has definitely changed since the advent of Amazon, tablets and Kindles. People started reading stuff on their tablets more and more. I have tried to to adapt electronic reading but I can't seem to focus long enough or I get screen induced headaches. I went back to physical books almost two years ago and I have consumed books at a much higher rate. I don't get screen fatigue while staring at paper pages. I also don't find myself falling into a rabbit hole of links and forgetting how I got where I got to. Ironically, I am still slow at reading because I like to markup my books and write reflections on them. And this aspect continues to affect how I do things even with technology supposedely making my life more convenient. I find myself being much more analog than ever before. I still put pen to paper; hell, I still sometimes think about my programs on paper first before I implement them. I only started really thinking about these things and technology after I graduated college and where you're standing right now is the advent of my journey. 
 
-### Some Background
+## Some Background
 
 - Computer Science and Pure Math double degree from Bing U on Dec 2015 (Fancy but not really. He can theorize about problems, not solve them).
-- Software Developer at a bank (Scary, possibly hypocritical).
+- Ex Software Developer at a bank (Scary, possibly hypocritical).
 - Heavily invested in all aspects about blockchain technology (Buzz, buzz, buzz).
 - I eat books (Hipster).
 - I'm a bit of a foodie (Hipster).
@@ -25,15 +25,19 @@ I'm on Medium actually. I just decided for a tech blog, I should use a static si
 - And as evidenced by what you're reading, I write a bit (If he gets anymore hipster...). 
 
 
-### What Can You Expect To See Here?
+## What Can You Expect To See Here?
 
-- Thought essays about going through the computer science/technology space.
-- Commentaries on certain goings on in tech.
-- Tutorials on certain tech I experiment with.
-- Project walkthroughs and lessons learned from those projects.
-- References to (what I think to be) helpful resources.
+## Development Diaries
+- Tutorials on certain tech I experiment with
+- Reflections as I go through the computer science/technology space
+- Project walk throughts and lessons learned from those projects
 
-And anything else related to tech that isn't coming to mind right now.
+## Musings
+- Thought essays about goings on in the computer science/technology space
+- My philosophies around computer science. Ex: Effective resources, how I believe people should learn this space, etc.
+
+## Thought Draft
+- I'm an avid reader so I will put here some reflections about books I've read or conclusions/philosophies I've gotten from certain books. 
 
 ### Conclusion
 
