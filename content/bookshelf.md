@@ -25,6 +25,6 @@ I apologize for the lack of nuance here. I will update it with appropriate genre
 - [The Art of Learning](https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465/ref=sr_1_2?ie=UTF8&qid=1530820782&sr=8-2&keywords=the+art+of+learning)
 - [Leonardo da Vinci](https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150/ref=sr_1_1?s=books&ie=UTF8&qid=1530820825&sr=1-1&keywords=da+vinci+isaacson)
 
-## Articles and Essays
+## Articles, Essays, and Papers
 
 ## Resources
