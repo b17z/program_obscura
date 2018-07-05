@@ -37,7 +37,7 @@ An ancedote: I love to read. The act of reading has definitely changed since the
 - My philosophies around computer science. Ex: Effective resources, how I believe people should learn this space, etc.
 
 ## Thought Draft
-- I'm an avid reader so I will put here some reflections about books I've read or conclusions/philosophies I've gotten from certain books. 
+- I'm an avid reader so I will put here some reflections or conclusions/philosophies I've gotten from certain books, articles, essays, etc. 
 
 ### Conclusion
 
