@@ -1,5 +1,5 @@
 ---
-title: "A Reflection on What I Need to Do Better New 2 Years After College"
+title: "A Reflection on What I Need to Do Better 2 Years After College"
 date: 2018-02-16T11:24:31-05:00
 ---
 
