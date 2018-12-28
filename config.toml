@@ -1,43 +1,58 @@
+# Site settings
 baseurl = "/"
+languageCode = "en"
 title = "Program Obscura"
-#copyright = "Copyright (c) 2008 - 2014, all rights reserved."
-#languageCode = "en-US"
-#canonifyurls = true
-#paginate = 3
-theme = "coder"
+theme = "obscura"
 
-[params] # theme parameters
- author = "Bienvenido (Ben) Rodriguez"
- info = "Program Obscura: Misadventures in a Digital World"
- description = "The Journey Through Life That is Increasingly Digital"
- keywords = "blog,developer,personal"
+[params]
+	author = "Bienvenido Rodriguez"
+	description = "My (mis) adventures through technology"
+	bio = "Scratching, scribbling and smearing at the cross section of technology, philosophy and investing while staying ahead of a creeping self identity crisis."
 
-[[params.social]] # social links
- name = "Github"
- weight = 1
- url = "https://github.com/b17z"
+	twitter = "b17z_"
 
-[[params.social]]
- name = "Twitter"
- weight = 2
- url = "https://twitter.com/b17z_"
+	enableRSS = true
+	enableToc = true
 
-[[params.social]]
- name = "LinkedIn"
- weight = 3
- url = "https://www.linkedin.com/in/bienvenidorodriguez/"
+	enableSummary = true
+	# Set the value to true if use description in post front matter replace content summary
+	useDescriptionReplaceSummary = true
 
-[[menu.main]] # menu links
- name = "Development Diaries"
- weight = 1
- url = "/development-diaries/"
+	enableTwitterCard = true
 
-[[menu.main]]
- name = "Musings"
- weight = 2
- url = "/musings/"
+	twitterCardImage = ""
 
-[[menu.main]]
- name = "Thought Draft"
- weight = 3
- url = "/thought-draft/"
+	# Add custom assets with their paths relative to the static folder
+	customCSS = []
+	customJS  = []
+
+	# The variables below are optionally too and can be used to
+	# translate or customize each string of the theme.
+
+	# Navigation links
+	home = "Home"
+	about = "About Me"
+	archive = "Archives"
+	subscribe = "Subscribe"
+
+	olderPosts = "Older"
+	newerPosts = "Newer"
+	copyright = "Copyright B17Z 2018"
+
+	# show latest posts in single page
+	showLatestPosts = true
+	readMore = "Read More"
+
+	# Share
+	enableShare = true
+	tweet = "Tweet"
+	share = "Share"
+
+	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
+	iconFont = "font-awesome"
+
+
+# Add additional social link entries underneath
+[social]
+	twitter-square = "https://www.twitter.com/b17z_"
+    github-square = "https://www.github.com/b17z"
