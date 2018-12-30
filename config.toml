@@ -7,7 +7,7 @@ theme = "obscura"
 [params]
 	author = "Bienvenido Rodriguez"
 	description = "My (mis) adventures through technology"
-	bio = "Scratching, scribbling and smearing at the cross section of technology, philosophy and investing while staying ahead of a creeping self identity crisis."
+	bio = "Scratching, scribbling and smearing at the cross section of technology, philosophy and investing while staying ahead of a creeping self identity crisis." 
 
 	twitter = "b17z_"
 
@@ -32,6 +32,7 @@ theme = "obscura"
 	# Navigation links
 	home = "Home"
 	about = "About Me"
+	b17z = "B17Z"
 	archive = "Archives"
 	subscribe = "Subscribe"
 

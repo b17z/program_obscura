@@ -2,12 +2,13 @@
 title = "On Evan Miller's You Cant Dig Upwards: C'ing Programming"
 description = "Why Developers Should Know C"
 tags = [
-    "c programming",
+    "c programming", "musings", "mental models"
 ]
 date = "2018-09-22T02:21:07-04:00"
 categories = [
     "C Programming",
     "Musings",
+    "Mental Models"
 ]
 menu = "main"
 +++
