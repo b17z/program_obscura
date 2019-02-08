@@ -75,7 +75,7 @@ I made the decision to not go to another team and just leave the job to help my 
 
 I had enough money saved up for a bit and I was able to score a contracting job with Lightning Capital, a hedge fund for blockchain assets. I was always super interested in Bitcoin and all things crypto that, while I didn't create anything, I learned how to invest in all asset classes while at my previous job. I also read a lot about the blockchain since it's a technology-first space.
 
-I had met the hedge fund manager through a friend. He reached out to me because I was impressed with my knowledge of the blockchain space. We got to discussing algorithms and I told him I had an idea for a trading bot that he might like.
+I had met the hedge fund manager through a friend. He reached out to me because he was impressed with my knowledge of the blockchain space. We got to discussing algorithms and I told him I had an idea for a trading bot that he might like.
 
 > I hadn't created something like that before. I started to wonder if I bit off more than I can chew. A full trading bot? I had created some crazy things in some of my college classes but nothing like a full stack application that some client depended on. How would I be able to pull this off? Little frontend experience, little API creation experience, little data science experience.
 
